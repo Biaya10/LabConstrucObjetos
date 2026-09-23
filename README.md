@@ -56,4 +56,4 @@ TAREAS EXTRA
         - ¿El número de puertas?
         - ¿El kilometraje?
         - ¿Si es de motor de combustión o eléctrico?
-        - ¿Algo más?
+        - ¿Algo más?# LabConstrucObjetos
